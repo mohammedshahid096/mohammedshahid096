@@ -10,10 +10,10 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedshahid096&show_icons=true&locale=en&layout=compact" alt="mohammedshahid096" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedshahid096&show_icons=true&locale=en" alt="mohammedshahid096" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedshahid096&theme=dark&hide_border=false)<br/>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedshahid096&" alt="mohammedshahid096" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammedshahid096&theme=radical&no-frame=false&no-bg=true&margin-w=4)
